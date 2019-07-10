@@ -1,0 +1,17 @@
+* Micro Projects
+** Non tech
+*** Demystifying Tech
+    Do most of the work, have new people finish it. Grade the work. 
+    - Glossary of terms
+** Examples
+*** Websites
+    - Github pages, or other free hosting
+    - single 
+*** Open datasets
+    - analysis
+      - stats
+      - interpretations
+    - visualizations
+    
+
+
